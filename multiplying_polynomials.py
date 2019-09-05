@@ -32,7 +32,3 @@ for i in range(0, len(polynomial1)):
 
 print(answer)
 print_polynomial(answer)
-#put the bottom part in as a method for a second commit
-#make a third commit for user input
-#make a shell script for like a go to Desktop or go to hard drive
-#download Grammarly Premium it's free for college students
